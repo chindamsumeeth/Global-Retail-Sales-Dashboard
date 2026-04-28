@@ -1,3 +1,13 @@
+<p align="center">
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow" />
+  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Project-Completed-brightgreen" />
+</p>
+
 # Global-Retail-Sales-Dashboard #
 
 # 🔍 About the Project #
